@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me:
 - 📋 **Resume**: Check out My Resume [**here**]()  
 - 💬 **Ask me about**: React.js, HTML5, CSS3, JavaScript (ES6+) ,Node.js, Express.js
-- 📫 **Reach me at**: [youfahmed353@gmail.com](mailto:youfahmed353@gmail.com) | **+20 01028133381**  
+- 📫 **Reach me**: [youfahmed353@gmail.com](mailto:youfahmed353@gmail.com) | **+20 01028133381**  
 - ⚡ **Fun fact**: I'm passionate about learning new things!  
 ---
 
@@ -170,9 +170,17 @@ Embarked on a challenge to solve 100 JavaScript problems on CodeWars. This repos
 
 ---
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefrramdan&show_icons=true&locale=en&layout=compact" alt="youssefrramdan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefrramdan&show_icons=true&locale=en" alt="youssefrramdan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefrramdan&" alt="youssefrramdan" /></p>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; text-align: center;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefrramdan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  </div>
+  
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=youssefrramdan&show_icons=true&locale=en" alt="GitHub Stats" />
+  </div>
+  
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefrramdan" alt="GitHub Streak" />
+  </div>
+</div>
 
