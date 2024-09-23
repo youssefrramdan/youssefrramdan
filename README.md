@@ -160,7 +160,7 @@ Embarked on a challenge to solve 100 JavaScript problems on CodeWars. This repos
 ![CodeWars Profile](https://www.codewars.com/users/youssefrramdan/badges/large)
 
 ** Profile Link : **
-![CodeWars Profile](https://www.codewars.com/users/youssefrramdan)
+[Visit my CodeWars Profile](https://www.codewars.com/users/youssefrramdan)
 
 **Tools & Technologies:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -170,8 +170,9 @@ Embarked on a challenge to solve 100 JavaScript problems on CodeWars. This repos
 
 ---
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-khaled0&show_icons=true&locale=en&layout=compact" alt="abdullah-khaled0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefrramdan&show_icons=true&locale=en&layout=compact" alt="youssefrramdan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-khaled0&show_icons=true&locale=en" alt="abdullah-khaled0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefrramdan&show_icons=true&locale=en" alt="youssefrramdan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-khaled0&" alt="abdullah-khaled0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefrramdan&" alt="youssefrramdan" /></p>
+
